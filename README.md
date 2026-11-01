@@ -458,24 +458,19 @@ Potential areas for further development include:
 
 ---
 
-## Acknowledgements
-
-The original collaborative editor implementation was based on a tutorial by Ankur:
-
-- [Ankur's Docker and AWS Project](https://github.com/ankurdotio/docker-aws)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-- [Yjs](https://docs.yjs.dev/)
-- [Socket.IO](https://socket.io/)
-- [Judge0](https://judge0.com/)
-
 ---
 
 <p align="center">
-  <strong>Code Together</strong>
+  <strong>Built for collaboration. Powered by code.</strong>
   <br />
-  Real-Time Collaboration. Seamless Coding. Shared Innovation.
+  If Code Together made your coding experience better, consider giving this repository a star.
+  <br />
+  Every star helps this project reach more developers.
   <br /><br />
-  <a href="https://github.com/Sai-Likitha-Madisetty/collab-code-editor">GitHub Repository</a>
-  &nbsp; | &nbsp;
-  <a href="https://collab-code-editor-k4l1.onrender.com/">Live Application</a>
+  <a href="https://github.com/Sai-Likitha-Madisetty/collab-code-editor">
+    <img src="https://img.shields.io/badge/Star_this_repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star this repository" />
+  </a>
+  <br /><br />
+  <sub>One workspace. Multiple minds. Better code.</sub>
 </p>
+
