@@ -130,7 +130,7 @@ function EditorPage({ room, username, token, isDarkMode }) {
   }, [runState, settings])
 
   useEffect(() => {
-    const nextProvider = new SocketIOProvider("https://collab-code-editor-k4l1.onrender.com", room.id, ydoc, {
+    const nextProvider = new SocketIOProvider("/", room.id, ydoc, {
       autoConnect: true,
       auth: { token, clientId: ydoc.clientID }
     })
