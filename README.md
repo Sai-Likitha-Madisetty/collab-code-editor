@@ -463,7 +463,7 @@ Potential areas for further development include:
 <p align="center">
   <strong>Built for collaboration. Powered by code.</strong>
   <br />
-  If Code Together made your coding experience better, consider giving this repository a star.
+  If Collab-Code-Editor made your coding experience better, consider giving this repository a star.
   <br />
   Every star helps this project reach more developers.
   <br /><br />
