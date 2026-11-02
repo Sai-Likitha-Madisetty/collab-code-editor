@@ -1,4 +1,4 @@
-# Code Together
+# Collab Code Editor
 
 <p align="center">
   <strong>A Real-Time Collaborative Code Editor</strong>
@@ -26,7 +26,7 @@
 
 ## Overview
 
-**Code Together** is a real-time collaborative code editor designed for pair programming, remote technical interviews, and shared problem-solving.
+**Collab Code Editor** is a real-time collaborative code editor designed for pair programming, remote technical interviews, and shared problem-solving.
 
 The platform allows multiple developers to join a shared coding workspace, edit code simultaneously, track participants, and execute programs across multiple programming languages.
 
@@ -338,7 +338,7 @@ The `.env` file and local backend data directory should remain excluded from ver
 
 ## Production Deployment
 
-Code Together is deployed on **Render** using its Docker-based production configuration.
+Collab Code Editor is deployed on **Render** using its Docker-based production configuration.
 
 ### Live Application
 
